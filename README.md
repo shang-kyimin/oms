@@ -1,0 +1,8 @@
+- Hot Reloading -> cosmtrek/air
+- Communication between Services -> gRPC
+- Message Broker -> RabbitMQ
+- Compose -> Docker
+- Storage -> MongoDB
+- Service Tracing -> Jaeger
+- Service Discovery -> HashiCorp's Consul
+- Payment -> Stripe

@@ -1,0 +1,10 @@
+go 1.22.4
+
+use (
+	./commons
+	./gateway
+	./kitchen
+	./orders
+	./payments
+	./stock
+)
